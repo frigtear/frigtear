@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @frigtear
 - Freshman at the University of Iowa
-- I want building interesting stuff
+- I like to code
 
-First project coming soon
 
 rsonnenschein@uiowa.edu 
 
