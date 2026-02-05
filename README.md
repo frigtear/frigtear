@@ -1,11 +1,10 @@
 - OOP fan
 - Node.js hater
 
-Work experience:
 
 - Prev SWE intern @Engie NA
 - Prev Data Eng intern @Pella
-- Incoming SWE intern @Activision
+- Incoming tools SWE intern @Activision
 
 
 <!---
